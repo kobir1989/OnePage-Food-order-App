@@ -2,6 +2,7 @@ import classes from './Header.module.css';
 import { Fragment } from 'react';
 import mealsImg from '../../assets/meals.jpg';
 import HeaderCartButton from './HeaderCartButton';
+
 function Header(props) {
   return (
     <Fragment>
