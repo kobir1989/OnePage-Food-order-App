@@ -12,8 +12,8 @@ const DUMMY_MEALS = [
   },
   {
     id: 'm2',
-    name: 'Schnitzel',
-    description: 'A german specialty!',
+    name: 'Butter Chicken',
+    description: 'An Indian Dish',
     price: 16.5,
   },
   {
@@ -24,7 +24,7 @@ const DUMMY_MEALS = [
   },
   {
     id: 'm4',
-    name: 'Green Bowl',
+    name: 'Green Salad',
     description: 'Healthy...and green...',
     price: 18.99,
   },
