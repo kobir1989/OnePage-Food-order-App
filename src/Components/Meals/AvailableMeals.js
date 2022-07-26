@@ -13,7 +13,8 @@ const DUMMY_MEALS = [
   {
     id: 'm2',
     name: 'Butter Chicken',
-    description: 'An Indian Dish',
+    description:
+      'An Indian                                                                                 Dish',
     price: 16.5,
   },
   {
